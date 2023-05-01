@@ -1,0 +1,6 @@
+Tarea de la sesión 3 (Pilares)
+
+Crear un mini sistema de una liguilla de fútbol soccer:
+Recomendación: hacer primero el diseño en un diagrama UML.
+Deberá llevar una superclase Persona y dos subclases Jugador y Entrenador.
+Hacer uso de Enumeraciones para las posiciones de cada Jugador y el nivel del Entrenador.
